@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 126889045+LouBonniol@users.noreply.github.com
+	name = Lou Bonniol
